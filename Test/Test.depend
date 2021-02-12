@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1613058697 source:c:\users\vadiraj\desktop\codingpratice\test\main.cpp
+	"SmallExecutionTime.h"
+	"Scheduler.h"
+	"Job.h"
+	"FCFS.h"
+	<bits/stdc++.h>
+
+1613058100 c:\users\vadiraj\desktop\codingpratice\test\include\scheduler.h
+	"Job.h"
+	<bits/stdc++.h>
+
+1613052390 c:\users\vadiraj\desktop\codingpratice\test\include\job.h
+	<bits/stdc++.h>
+
+1613052186 source:c:\users\vadiraj\desktop\codingpratice\test\src\job.cpp
+	"Job.h"
+	<bits/stdc++.h>
+
+1613058152 source:c:\users\vadiraj\desktop\codingpratice\test\src\scheduler.cpp
+	"Scheduler.h"
+	"Job.h"
+	<bits/stdc++.h>
+
+1613058023 c:\users\vadiraj\desktop\codingpratice\test\include\smallexecutiontime.h
+	<Scheduler.h>
+
+1613058145 source:c:\users\vadiraj\desktop\codingpratice\test\src\smallexecutiontime.cpp
+	"SmallExecutionTime.h"
+	"Scheduler.h"
+	"Job.h"
+	<bits/stdc++.h>
+
+1613058657 source:c:\users\vadiraj\desktop\codingpratice\test\src\fcfs.cpp
+	"FCFS.h"
+
+1613058555 c:\users\vadiraj\desktop\codingpratice\test\include\fcfs.h
+	<Scheduler.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1613125987 source:c:\users\vadiraj\desktop\codingpratice\tree\src\node.cpp
+	"Node.h"
+	<bits/stdc++.h>
+
+1613125983 c:\users\vadiraj\desktop\codingpratice\tree\include\node.h
+	<bits/stdc++.h>
+
+1613125916 source:c:\users\vadiraj\desktop\codingpratice\tree\main.cpp
+	"Controller.h"
+	<bits/stdc++.h>
+
+1613126393 c:\users\vadiraj\desktop\codingpratice\tree\include\controller.h
+	<bits/stdc++.h>
+
+1613129016 source:c:\users\vadiraj\desktop\codingpratice\tree\src\controller.cpp
+	"Controller.h"
+	<bits/stdc++.h>
+

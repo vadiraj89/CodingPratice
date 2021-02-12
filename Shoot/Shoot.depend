@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1613152881 source:c:\users\vadiraj\desktop\codingpratice\shoot\src\ship.cpp
+	"Ship.h"
+	<bits/stdc++.h>
+
+1613152889 c:\users\vadiraj\desktop\codingpratice\shoot\include\ship.h
+	<bits/stdc++.h>
+
+1613153264 source:c:\users\vadiraj\desktop\codingpratice\shoot\main.cpp
+	"Game.h"
+	"Player.h"
+	"Ship.h"
+	<bits/stdc++.h>
+
+1613153318 c:\users\vadiraj\desktop\codingpratice\shoot\include\game.h
+	"Player.h"
+	"Ship.h"
+	<bits/stdc++.h>
+
+1613153370 c:\users\vadiraj\desktop\codingpratice\shoot\include\player.h
+	"Ship.h"
+	<bits/stdc++.h>
+
+1613153339 source:c:\users\vadiraj\desktop\codingpratice\shoot\src\game.cpp
+	"Game.h"
+	"Player.h"
+	"Ship.h"
+	<bits/stdc++.h>
+
+1613154349 source:c:\users\vadiraj\desktop\codingpratice\shoot\src\player.cpp
+	"Player.h"
+	"Ship.h"
+	<bits/stdc++.h>
+
