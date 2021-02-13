@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1613192512 source:c:\users\vadiraj\desktop\codingpratice\flipkartwallet\src\account.cpp
+	"Account.h"
+	"Transaction.h"
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613190731 c:\users\vadiraj\desktop\codingpratice\flipkartwallet\include\account.h
+	"Transaction.h"
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613192407 c:\users\vadiraj\desktop\codingpratice\flipkartwallet\include\transaction.h
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613189653 c:\users\vadiraj\desktop\codingpratice\flipkartwallet\include\wallet.h
+	<bits/stdc++.h>
+
+1613192185 source:c:\users\vadiraj\desktop\codingpratice\flipkartwallet\src\transaction.cpp
+	"Transaction.h"
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613192124 source:c:\users\vadiraj\desktop\codingpratice\flipkartwallet\src\wallet.cpp
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613193941 source:c:\users\vadiraj\desktop\codingpratice\flipkartwallet\main.cpp
+	"Controller.h"
+	"Account.h"
+	"Transaction.h"
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613194016 c:\users\vadiraj\desktop\codingpratice\flipkartwallet\include\controller.h
+	"Account.h"
+	"Transaction.h"
+	"Wallet.h"
+	<bits/stdc++.h>
+
+1613194065 source:c:\users\vadiraj\desktop\codingpratice\flipkartwallet\src\controller.cpp
+	"Controller.h"
+	"Account.h"
+	"Transaction.h"
+	"Wallet.h"
+	<bits/stdc++.h>
+
